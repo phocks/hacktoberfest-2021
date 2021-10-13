@@ -3,4 +3,4 @@ A repo that people can use to practice their pull request skills for [Hacktoberf
 
 ## Current editors
 
-- Me!
+- [phocks](https://github.com/phocks)
