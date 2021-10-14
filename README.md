@@ -1,11 +1,13 @@
 # Hacktoberfest 2021
+
 A repo that people can use to practice their pull request skills for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 2021.
 
 ## Instructions
+
 Fork this repository. Edit some files. Make a pull request.
 
 Celebrate!
 
-## Current editors
+## Current pull requestors
 
-- [phocks](https://github.com/phocks)
+- [Joshua Byrd](https://github.com/phocks)
