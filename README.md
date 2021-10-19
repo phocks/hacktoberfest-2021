@@ -6,7 +6,7 @@ A repo that people can use to practice their pull request skills for [Hacktoberf
 
 Fork this repository. Edit some files. Make a pull request.
 
-Celebrate!
+Celebrate! 🥳
 
 ## Current pull requestors
 
