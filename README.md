@@ -11,3 +11,4 @@ Celebrate!
 ## Current pull requestors
 
 - [Joshua Byrd](https://github.com/phocks)
+- [Sangeeta Jha](https://github.com/nehasangeetajha)
