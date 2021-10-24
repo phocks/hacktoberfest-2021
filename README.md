@@ -12,3 +12,4 @@ Celebrate! 🥳
 
 - [Joshua Byrd](https://github.com/phocks)
 - [Sangeeta Jha](https://github.com/nehasangeetajha)
+- [Kingsley Ajaezo](https://github.com/Kingscliq)
